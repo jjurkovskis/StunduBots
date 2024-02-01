@@ -1,0 +1,835 @@
+BEGIN:VCALENDAR
+PRODID:-//RTU//Schedule_ICS 1.0//LV
+VERSION:2.0
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240130T163000
+DTEND:20240130T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123405Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240131T143000
+DTEND:20240131T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123406Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240201T081500
+DTEND:20240201T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123407Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240201T101500
+DTEND:20240201T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123408Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240202T081500
+DTEND:20240202T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123409Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240202T101500
+DTEND:20240202T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123410Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240206T163000
+DTEND:20240206T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123411Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240207T143000
+DTEND:20240207T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123412Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240208T081500
+DTEND:20240208T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123413Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240208T101500
+DTEND:20240208T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123414Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240209T081500
+DTEND:20240209T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123415Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240209T101500
+DTEND:20240209T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123416Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240213T163000
+DTEND:20240213T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123417Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240214T143000
+DTEND:20240214T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123418Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240215T081500
+DTEND:20240215T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123419Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240215T101500
+DTEND:20240215T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123420Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240216T081500
+DTEND:20240216T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123421Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240216T101500
+DTEND:20240216T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123422Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240220T163000
+DTEND:20240220T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123423Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240221T143000
+DTEND:20240221T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123424Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240222T081500
+DTEND:20240222T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123425Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240222T101500
+DTEND:20240222T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123426Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240223T081500
+DTEND:20240223T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123427Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240223T101500
+DTEND:20240223T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123428Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240227T163000
+DTEND:20240227T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123429Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240228T143000
+DTEND:20240228T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123430Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240229T081500
+DTEND:20240229T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123431Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240229T101500
+DTEND:20240229T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123432Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240301T081500
+DTEND:20240301T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123433Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240301T101500
+DTEND:20240301T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123434Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240305T163000
+DTEND:20240305T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123435Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240306T143000
+DTEND:20240306T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123436Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240307T081500
+DTEND:20240307T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123437Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240307T101500
+DTEND:20240307T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123438Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240308T081500
+DTEND:20240308T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123439Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240308T101500
+DTEND:20240308T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123440Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240312T163000
+DTEND:20240312T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123441Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240313T143000
+DTEND:20240313T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123442Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240314T081500
+DTEND:20240314T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123443Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240314T101500
+DTEND:20240314T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123444Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240315T081500
+DTEND:20240315T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123445Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240315T101500
+DTEND:20240315T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123446Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240319T163000
+DTEND:20240319T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123447Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240320T143000
+DTEND:20240320T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123448Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240321T081500
+DTEND:20240321T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123449Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240321T101500
+DTEND:20240321T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123450Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240322T081500
+DTEND:20240322T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123451Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240322T101500
+DTEND:20240322T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123452Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240402T163000
+DTEND:20240402T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123453Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240403T143000
+DTEND:20240403T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123454Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240404T081500
+DTEND:20240404T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123455Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240404T101500
+DTEND:20240404T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123456Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240405T081500
+DTEND:20240405T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123457Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240405T101500
+DTEND:20240405T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123458Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240409T163000
+DTEND:20240409T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123459Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240410T143000
+DTEND:20240410T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123500Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240411T081500
+DTEND:20240411T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123501Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240411T101500
+DTEND:20240411T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123502Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240412T081500
+DTEND:20240412T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123503Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240412T101500
+DTEND:20240412T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123504Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240416T163000
+DTEND:20240416T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123505Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240417T143000
+DTEND:20240417T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123506Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240418T081500
+DTEND:20240418T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123507Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240418T101500
+DTEND:20240418T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123508Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240419T081500
+DTEND:20240419T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123509Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240419T101500
+DTEND:20240419T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123510Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240423T163000
+DTEND:20240423T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123511Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240424T143000
+DTEND:20240424T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123512Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240425T081500
+DTEND:20240425T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123513Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240425T101500
+DTEND:20240425T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123514Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240426T081500
+DTEND:20240426T095000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123515Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240426T101500
+DTEND:20240426T115000
+SUMMARY:Lekc\, Pr.d. Ievads projekta vadībā\, Docents V.Minkēviča
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123516Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240430T163000
+DTEND:20240430T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123517Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240502T081500
+DTEND:20240502T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123518Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240502T101500
+DTEND:20240502T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123519Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240507T163000
+DTEND:20240507T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123520Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240508T143000
+DTEND:20240508T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123521Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240509T081500
+DTEND:20240509T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123522Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240509T101500
+DTEND:20240509T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123523Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240514T163000
+DTEND:20240514T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123524Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240515T143000
+DTEND:20240515T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123525Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240516T081500
+DTEND:20240516T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123526Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240516T101500
+DTEND:20240516T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123527Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240521T163000
+DTEND:20240521T180500
+SUMMARY:Lekc\, Pr.d. Politoloģija\, Asociētais profesors G.Ozolzīle
+TZID:Europe/Riga
+LOCATION:Āzenes iela 12 - 101
+UID:20240201T123528Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240522T143000
+DTEND:20240522T160500
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Zunda krastmala iela 10 - 533
+UID:20240201T123529Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240523T081500
+DTEND:20240523T095000
+SUMMARY:Pr.d. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123530Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20240201T123341Z
+DTSTART:20240523T101500
+DTEND:20240523T115000
+SUMMARY:Lekc. Uzņēmuma lietotnes\, Profesors J.Grabis\, Zinātniskais asis
+ tents K.Pinka
+TZID:Europe/Riga
+LOCATION:Attālināti iela  - Teams
+UID:20240201T123531Z-uidGen@telpas2.rtu.lv
+END:VEVENT
+END:VCALENDAR
